@@ -6,7 +6,7 @@ Encontrei por ai um desafio de desenvolvimento mobile da @PigzDelivery que muito
 
 # 📸 Fotos
 
-![Preview app](./assets/video.mp4)
+![Preview app](./assets/video.gif)
 
 # 🚀 Tecnologias
 
